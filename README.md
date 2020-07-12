@@ -3,3 +3,5 @@
 Script Hyper-V – Criar Galeria de Máquinas Virtuais Personalizadas -  Comandos utilizados e arquivo JSON.
 
 Conteúdo:
+
+GalleryHyperV.JSON
