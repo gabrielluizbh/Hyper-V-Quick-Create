@@ -5,3 +5,4 @@ Script Hyper-V – Criar Galeria de Máquinas Virtuais Personalizadas -  Comando
 Conteúdo:
 
 GalleryHyperV.JSON
+Script Hyper-V Quick Create – Criar Galeria de Máquinas Virtuais Personalizadas -  Comandos utilizados.ps1
